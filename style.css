@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.profile {
+    background-color: #E6F0F2 ;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+    padding: 20px;
+    margin: 20px;
+    width: 800px;
+    height: 500px;
+}
