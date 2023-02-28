@@ -6,14 +6,18 @@
     margin-top: 50px;
 }
 
+.tabel {
+    margin: auto;
+}
+
 .profile {
     background-color: #E6F0F2 ;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     padding: 20px;
     margin: 20px;
-    width: 800px;
-    height: 500px;
+    width: 780px;
+    height: 480px;
 }
 
 .bio {
@@ -23,7 +27,7 @@
     padding: 20px;
     margin: 10px;
     width: 400px;
-    height: 150px;
+    height: 140px;
 }
 
 .sosmed {
@@ -31,7 +35,7 @@
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.2);
     padding: 20px;
-    margin: 20px;
+    margin: 10px;
     width: 200px;
     height: 400px;
 }
@@ -58,16 +62,35 @@
 
 .logososmed {
     border-radius: 50%;
-    width: 15px;
-    height: 15px;
+    width: 20px;
+    height: 20px;
+    
+    
 }
 
 .fontsosmed{
-    font-size: small;
+    font-size: 12px;
+    margin: auto;
+    
+}
+
+.fontbio {
+    font-size: 14px;
+    margin-top: 0px;
 }
 
 .fontdeskripsi {
     text-align :center;
-    font-size: small;
+    font-size: 12px;
+    margin-bottom: 20px;
+    
 }
 
+.fontpengalaman {
+    font-size: 12px;
+}
+
+.h4 {
+    margin-top: 0px;
+    line-height: 0px;
+}
